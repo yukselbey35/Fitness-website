@@ -26,12 +26,12 @@ header{
     margin-top: 70px;
 }
 #bannerInfo h1{
-    color: #bf1d1d;
+    color: #f40707;
     text-align: center;
     font-size: 35px;
 }
 #bannerInfo p{
-    color: white;
+    color: #f40707;
     text-align: center;
     font-size: 18px;
 }
